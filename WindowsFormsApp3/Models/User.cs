@@ -8,6 +8,10 @@ namespace WindowsFormsApp3.Models
 {
     internal class User
     {
+
         public int IDs {get; set;}
+
+        public int MSSV { get; set; }
+
     }
 }
