@@ -8,5 +8,6 @@ namespace WindowsFormsApp3.Models
 {
     internal class User
     {
+        public int ID { get; set; }
     }
 }
